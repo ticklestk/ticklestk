@@ -1,8 +1,6 @@
 # Hi there 👋
 
-I'm Tay Kai — I like to develop solutions!
-
-Welcome to my GitHub profile. I enjoy creating projects that solve real-world problems, and I'm always looking to learn something new.
+Hey, I'm a Business Analytics student at NUS specialising in Machine Learning and Financial Analytics. I enjoy building full-stack solutions and staying on top of the latest in AI. I have a vested interest in both software engineering and quantitative finance. When I'm away from the keyboard, you'll find me on the basketball court or the pickleball court.
 
 ## 🚀 Featured Projects
 
@@ -22,7 +20,6 @@ Add or update links and descriptions below as you like!
 
 ## 📫 How to reach me
 
-- [Twitter](https://twitter.com/)  
 - [LinkedIn](https://linkedin.com/in/)  
 
 ---
