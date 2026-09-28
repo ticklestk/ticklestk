@@ -7,7 +7,8 @@ Currently building Roborelay - a Robotics Software Startup for field robotic dep
 
 ## 📫 How to reach me
 
-- [LinkedIn](https://linkedin.com/in/)  
+- [LinkedIn](https://linkedin.com/in/)
+- [Personal Website] (https://taykai.vercel.app/)
 
 ---
 
